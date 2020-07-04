@@ -9,6 +9,6 @@ Actual version : Pre-Alpha V0.0.1 (stable)
 - add cards ( + implement mana)
 - add Values to bars
 - add damage ranges ( + implement critical strikes & visual effects for damage dealt and criticals)
-- add Multiple enemies ( + targeting system & AOE effect for cards)
+- add Multiple enemies ( + targeting system & AOE effect for cards) [DONE in test]
 
 Developed with Unreal Engine 4
