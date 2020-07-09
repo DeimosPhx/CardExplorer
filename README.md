@@ -10,6 +10,7 @@ In Developpement version : BETA V0.1.0
 - add cards
 - add multiple scenarios (+ level selector)
 - add currency (+ ability to purchase cards)
+- add basic sound design
 
 
 # TODO for V0.0.2 : [COMPLETED]
