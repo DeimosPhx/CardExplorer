@@ -6,11 +6,19 @@
 Actual version : Pre-Alpha V0.0.2 (TEST)
 In Developpement version : BETA V0.1.0
 
+# Target for full beta release:
+- Debugged game sequences
+- Deck preset + save
+- Basic story line for scenarios
+- Scenarios selector
+- balanced card stats & prices
+
 # TODO for V0.1.0 :
 - add cards
 - add multiple scenarios (+ level selector)
 - add currency (+ ability to purchase cards) [DONE CURRENCY + REWARD]
-- add basic sound design
+- add basic sound design [DONE]
+- add basic save system (currency only) [DONE]
 
 
 # TODO for V0.0.2 : [COMPLETED]
